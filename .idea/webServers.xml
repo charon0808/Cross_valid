@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9a27079d-fab6-482d-8b5c-9d62368883e4" name="cross_valid">
+        <fileTransfer rootFolder="/home/xli" accessType="SFTP" host="210.28.134.115" port="22" sshConfigId="8062aa3c-f839-42ca-bb1e-58d3d9852682" sshConfig="xli@210.28.134.115:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
